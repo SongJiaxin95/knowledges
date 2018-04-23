@@ -3,3 +3,6 @@
 1.  [git知识库]
 
 *   [git基本命令](https://github.com/SongJiaxin95/knowledges/tree/master/git/git.md)
+2. [django知识库]
+
+*   [django简介](https://github.com/SongJiaxin95/knowledges/tree/master/django/django1.md)
