@@ -14,7 +14,7 @@ URL分发器：也叫路由，主要用于将url请求发送给不同的View处�
 
 ------
 
-###VIRTUALENV虚拟环境创建
+### VIRTUALENV虚拟环境创建
 
 本教程使用的python版本为python3.x版本，使用的系统为windows系统
 
@@ -81,7 +81,7 @@ python manage.py runserver 端口
 
 该命令是运行项目，端口可以不用写，启动的时候会默认随机创建一个可以使用的端口,一般为8000，然后在浏览器输入地址即可访问
 
-######3. settings.py配置文件
+###### 3. settings.py配置文件
 
 3.1 设置语言
 
