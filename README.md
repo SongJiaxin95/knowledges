@@ -6,3 +6,4 @@
 2. [django知识库]
 
 *   [django简介](https://github.com/SongJiaxin95/knowledges/tree/master/django/django1.md)
+*   [django模型](https://github.com/SongJiaxin95/knowledges/tree/master/django/django2.md)
